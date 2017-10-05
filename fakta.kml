@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.x">
+    <Document>
+        <Placemark>
+            <name>Fakta Herning, Vestergade</name>
+            <Point>
+                <coordinates>8.96501902, 56.13635293, 0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
